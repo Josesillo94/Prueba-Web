@@ -1,0 +1,35 @@
+#agregar{
+    margin-top: 130px;
+}
+table{
+    text-align: center;
+    padding: 10px;
+    
+}
+.titulos__tabla{
+    background: #2B4755;
+    padding: 10px;
+    margin: 20px;
+    color: #cadbe6;
+    font-size: 26px;
+    font-weight: bold;
+
+    
+    
+}
+.texto__tabla{
+    background: #aac7db;
+    padding: 10px;
+}
+button:hover{
+    cursor: pointer;
+}
+button a{
+    color: #aac7db;
+    text-decoration: none;
+}
+h2{
+    color: #314755;
+    font-size: 26px;
+    
+}
